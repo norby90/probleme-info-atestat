@@ -1,0 +1,4 @@
+Scrieţi programul care citeşte de la tastatură un şir cu cel mult 200 de caractere litere mici şi
+care determină transformarea acestuia prin înlocuirea fiecărei litere cu următoarea din alfabet
+(adică a trece în b, b trece în c, …, z trece în a). Programul va afişa pe ecran şirul obţinut.
+Exemplu: zadar =>gt abebs

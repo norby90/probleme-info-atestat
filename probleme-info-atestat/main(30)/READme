@@ -1,0 +1,7 @@
+Se citeşte de la tastatură un număr natural k (1  k  1.000.000.000). Scrieţi un program care
+verifică dacă n este termen al şirului Fibonacci (acest şir se construieşte prin recurenţa: f 1 =1, f 2 =1,
+f n =f n-1 +f n-2 , pentru n&gt;2). Se va afişa la ecran un mesaj.
+
+Exemplu:
+k = 13
+Se va afişa: 13 este termen al sirului Fibonacci

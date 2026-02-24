@@ -1,0 +1,4 @@
+Un cuvânt s, de cel mult 250 caractere, format doar din litere mici, conţine cel puţin o
+consoană. Scrieţi programul care citeşte de la tastatură cuvântul s, construieşte în memorie şi
+afişează pe ecran cuvântul obţinut prin eliminarea tuturor vocalelor din cuvântul s. Vocală este
+oricare literă care se află în mulţimea {a, e, i, o, u}.

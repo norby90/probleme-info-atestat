@@ -1,0 +1,15 @@
+Fişierul siruri.in conţine pe prima linie trei numere naturale m, n, p (2  m, n, p  1000), pe a
+doua linie un şir de m numere naturale, pe a treia linie un şir de n numere naturale, iar pe ultima
+linie un şir de p numere naturale. Se ştie că cele trei şiruri sunt scrise în ordine strict crescătoare în
+fişier şi că au cel puţin un număr comun. Scrieţi un program care afişează la ecran un număr
+comun celor 3 şiruri şi poziţiile pe care apare acesta.
+
+Exemplu:
+siruri.in
+3 2 5
+2 7 20
+7 45
+1 2 5 7 20
+Se va afişa:
+Valoare comuna: 7
+Pozitiile pe care apare in cele trei siruri: 2 1 4

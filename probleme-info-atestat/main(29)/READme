@@ -1,0 +1,19 @@
+29. Din fişierul date.txt se citesc numerele naturale n şi m (0 &lt; m &lt; n &lt; 5000) de pe prima linie,
+apoi n numere naturale a 1 , a 2 , …, a n de pe linia a doua şi apoi m numere naturale b 1 , b 2 , …, b m de
+pe linia a treia a fişierului. Să se verifice dacă şirul b citit de pe a treia linie a fişierului se poate
+obţine din şirul a (aflat pe a doua linie a fişierului) prin eliminarea unora dintre componentele
+şirului a. Se va afişa la ecran mesajul DA sau NU.
+
+Exemple:
+
+date.txt
+5 3
+1 6 3 1 3
+6 1 3
+Se va afişa: DA
+
+date.txt
+4 2
+2 9 7 3
+3 9
+Se va afişa: NU
