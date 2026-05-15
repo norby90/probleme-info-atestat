@@ -1,12 +1,12 @@
 # 📘 Atestat – Problem Collection
 
-> A comprehensive collection of programming problems solved in C/C++ for the Informatics Certification Project
+> A comprehensive collection of programming problems solved in C/C++.
 
 ---
 
 ## 📌 Overview
 
-This repository contains curated programming problems solved in **C/C++** that were prepared for my Informatics Certification Project (Atestat). Each solution demonstrates fundamental algorithmic concepts and programming best practices studied in high school computer science.
+This repository contains curated programming problems solved in **C/C++**. Each solution demonstrates fundamental algorithmic concepts and programming best practices studied in high school computer science.
 
 ---
 
@@ -24,7 +24,7 @@ This repository contains curated programming problems solved in **C/C++** that w
 | Technology | Description |
 |-----------|------------|
 | **C++** | Primary programming language |
-| **Standard Library** | iostream, cstring, vector, algorithm, etc. |
+| **Standard Library** | iostream, cstring, vector, algorithm, sfml, sdl etc. |
 | **Console I/O** | Standard input/output operations |
 | **IDEs** | CodeBlocks, CLion, VS Code, Dev-C++ |
 
@@ -95,4 +95,4 @@ g++ problem_name.cpp -o program
 
 ---
 
-**Last Updated:** February 2026
+**Last Updated:** May 2026
